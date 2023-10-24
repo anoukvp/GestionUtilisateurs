@@ -1,12 +1,21 @@
 # GestionUtilisateurs
 
-Repository Rattrapage Cube 2 - CDA 2022
+Repository Travail complémentaire - CDA 2022
 
-J'ai choisi pour ce projet une application ASP.NET. Version 6. 
+Pour la base de données, c'est hébergé chez Alwaysdata, voici le lien et les identifiants:
 
-Vous trouverez le front, back et l'API au sein du même projet. 
+https://phpmyadmin.alwaysdata.com/
 
-J'ai crée le model utilisateur et le CRUD est en place concernant cette entité. 
+User:325371
+MDP:anouk2023
+
+Pour ce projet j'ai choisi du HTML et du CSS pour le front end et du PHP pour le backend.
+
+J'ai utilisé Jwt et PhpUnit. 
+
+
+
+
 
 
 
